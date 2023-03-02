@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fruit-Filter/static/css/main.21f4d2f3.css",
+    "main.js": "/Fruit-Filter/static/js/main.684e3b3c.js",
+    "static/js/787.322744e9.chunk.js": "/Fruit-Filter/static/js/787.322744e9.chunk.js",
+    "index.html": "/Fruit-Filter/index.html",
+    "main.21f4d2f3.css.map": "/Fruit-Filter/static/css/main.21f4d2f3.css.map",
+    "main.684e3b3c.js.map": "/Fruit-Filter/static/js/main.684e3b3c.js.map",
+    "787.322744e9.chunk.js.map": "/Fruit-Filter/static/js/787.322744e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21f4d2f3.css",
+    "static/js/main.684e3b3c.js"
+  ]
+}
